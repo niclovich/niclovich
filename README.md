@@ -9,10 +9,12 @@
 
 ### 💼 Sobre mí
 
-- 🎓 Técnico Universitario en Programación, estudiante avanzado de Análisis de Sistemas (UNSa).
-- 🧠 Me especializo en desarrollo web, sistemas académicos y automatización de procesos.
-- 🚀 Experiencia en backend con Laravel, PL/SQL y frontend con Angular, JS, Bootstrap.
-- 📚 En constante formación. Amante de la eficiencia y las soluciones sostenibles.
+- 👨‍💻 **Desarrollador Full Stack** con enfoque en soluciones funcionales, escalables y centradas en el usuario.
+- 🛠 Experiencia comprobada en proyectos reales con **Laravel**, **Django**, **Angular** y **Android Studio**.
+- 🧩 Versátil y analítico: capaz de **entender y traducir requerimientos complejos** en soluciones simples y efectivas.
+- 🔄 Dominio de tecnologías **backend** (PHP, PL/SQL), **frontend** (JavaScript, Angular, Bootstrap) y **móviles** (Android Studio).
+- 📈 Proactivo, comunicativo y con fuerte orientación a resultados; me adapto rápidamente y aporto valor desde el primer día.
+- 🌱 En constante formación, con pasión por la automatización, la mejora continua y el desarrollo sostenible.
 
 ---
 
