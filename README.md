@@ -35,24 +35,6 @@
 
 ---
 
-### 📌 Proyectos destacados
-
-- 🔸 **Sistema de Gestión Académica**  
-  Plataforma integral para institutos terciarios: inscripción, títulos, pagos, historial académico y más.  
-  _Laravel + PostgreSQL + AdminLTE_
-
-- 🔸 **CryptoBro**  
-  Simulador educativo de criptomonedas y monedas FIAT.  
-  _JavaScript + HTML + CSS_
-
-- 🔸 **MuniApp**  
-  App para municipios, promueve el turismo y la economía local.  
-  _Android Studio + Java_
-
-- 🔸 **Sistema de Encuestas**  
-  Plataforma de encuestas internas para gestión y análisis de datos en empresas.  
-  _Angular + Laravel + Chart.js_
-
 ### 📬 Contacto
 
 <p align="center">
