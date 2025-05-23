@@ -1,52 +1,63 @@
-# 👋 Hola, soy Nicolás Muñoz
-
-## 💼 Analista de Sistemas | Desarrollador Full Stack | Entusiasta de la Tecnología
-
-Soy Técnico Universitario en Programación y estudiante avanzado de la Licenciatura en Análisis de Sistemas en la Universidad Nacional de Salta. Apasionado por resolver problemas mediante el desarrollo de software, con experiencia en proyectos web, móviles y sistemas empresariales.
-
----
-
-## 🛠 Tecnologías y herramientas
-
-- 🔹 Lenguajes: `JavaScript`, `TypeScript`, `PHP`, `Python`, `PL/SQL`
-- 🔹 Frameworks: `Laravel`, `Angular`, `Django`, `Oracle Forms`
-- 🔹 Bases de Datos: `PostgreSQL`, `Oracle`, `MySQL`
-- 🔹 Otros: `Docker`, `Git`, `Node.js`, `AdminLTE`, `Bootstrap`, `Chart.js`
-
----
-
-## 📌 Proyectos destacados
-
-- **Sistema de Gestión Académica**  
-  Sistema integral para institutos terciarios: inscripción, títulos, pagos, historial académico y más.  
-  _Tecnologías: Laravel, PostgreSQL, AdminLTE_
-
-- **CryptoBro**  
-  Simulador de conversiones entre criptomonedas y monedas FIAT.  
-  _Tecnologías: JavaScript, HTML, CSS_
-
-- **MuniApp**  
-  Aplicación móvil para municipios: noticias, comercios, eventos y más.  
-  _Tecnologías: Android Studio, Java_
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hola 👋, soy Nicolás Muñoz</h1>
+<h3 align="center">Analista de Sistemas | Full Stack Developer | Apasionado por la tecnología</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niclovich&show_icons=true&hide_border=true&count_private=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niclovich&layout=compact&theme=default" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Especialista+en+Sistemas+Institucionales;Amante+del+Código+y+la+Automatización" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📫 ¿Cómo contactarme?
+### 💼 Sobre mí
 
-- 📧 Email: [nicolas.mu@gmail.com](mailto:nicolas.mu@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/nicolas-muñoz](https://linkedin.com/in/nicolas-muñoz)
-- 🌐 Portfolio: próximamente...
+- 🎓 Técnico Universitario en Programación, estudiante avanzado de Análisis de Sistemas (UNSa).
+- 🧠 Me especializo en desarrollo web, sistemas académicos y automatización de procesos.
+- 🚀 Experiencia en backend con Laravel, PL/SQL y frontend con Angular, JS, Bootstrap.
+- 📚 En constante formación. Amante de la eficiencia y las soluciones sostenibles.
 
 ---
 
-> "Transformando ideas en soluciones eficientes, sostenibles y escalables."
+### 🛠 Tecnologías y herramientas
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,angular,js,ts,python,html,css,bootstrap,postgres,oracle,docker,git,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niclovich&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niclovich&layout=compact&theme=default" alt="Top langs" />
+</p>
+
+---
+
+### 📌 Proyectos destacados
+
+- 🔸 **Sistema de Gestión Académica**  
+  Plataforma integral para institutos terciarios.  
+  _Laravel + PostgreSQL + AdminLTE_
+
+- 🔸 **CryptoBro**  
+  Simulador educativo de criptomonedas y monedas FIAT.  
+  _JavaScript + HTML + CSS_
+
+- 🔸 **MuniApp**  
+  App para municipios, promueve el turismo y la economía local.  
+  _Android Studio + Java_
+
+---
+
+### 📬 Contacto
+
+<p align="center">
+  <a href="mailto:nicolas.mu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nicolas-muñoz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"La tecnología es solo una herramienta. El éxito depende de cómo la uses para transformar ideas en soluciones."</i>
+</p>
