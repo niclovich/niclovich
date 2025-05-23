@@ -38,7 +38,7 @@
 ### 📌 Proyectos destacados
 
 - 🔸 **Sistema de Gestión Académica**  
-  Plataforma integral para institutos terciarios.  
+  Plataforma integral para institutos terciarios: inscripción, títulos, pagos, historial académico y más.  
   _Laravel + PostgreSQL + AdminLTE_
 
 - 🔸 **CryptoBro**  
@@ -49,7 +49,9 @@
   App para municipios, promueve el turismo y la economía local.  
   _Android Studio + Java_
 
----
+- 🔸 **Sistema de Encuestas**  
+  Plataforma de encuestas internas para gestión y análisis de datos en empresas.  
+  _Angular + Laravel + Chart.js_
 
 ### 📬 Contacto
 
