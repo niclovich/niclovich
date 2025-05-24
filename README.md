@@ -2,7 +2,7 @@
 <h3 align="center">Analista de Sistemas | Full Stack Developer | Apasionado por la tecnología</h3>
 
 <p align="center">
-  <img src="[https://postimg.cc/hJ0JLWSM](https://i.postimg.cc/d0b8KwgM/Chat-GPT-Image-23-may-2025-09-11-58-p-m.png)" alt="Typing SVG" />
+  <img src="https://i.postimg.cc/d0b8KwgM/Chat-GPT-Image-23-may-2025-09-11-58-p-m.png" alt="Typing SVG" />
 </p>
 
 ---
