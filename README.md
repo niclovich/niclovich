@@ -2,7 +2,7 @@
 <h3 align="center">Analista de Sistemas | Full Stack Developer | Apasionado por la tecnología</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Especialista+en+Sistemas+Institucionales;Amante+del+Código+y+la+Automatización" alt="Typing SVG" />
+  <img src="https://files.fm/f/n49jd3kv5r" alt="Typing SVG" />
 </p>
 
 ---
