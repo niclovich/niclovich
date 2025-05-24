@@ -2,7 +2,7 @@
 <h3 align="center">Analista de Sistemas | Full Stack Developer | Apasionado por la tecnología</h3>
 
 <p align="center">
-  <img src="https://files.fm/f/n49jd3kv5r" alt="Typing SVG" />
+  <img src="https://postimg.cc/hJ0JLWSM" alt="Typing SVG" />
 </p>
 
 ---
